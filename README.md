@@ -1,6 +1,6 @@
 <img src='https://repository-images.githubusercontent.com/744391632/654b52a4-f02a-4183-ac25-5304fb78531f'>
 
-# *Autometa*: Collection of automation tools
+# *Autometa*: Collection of automation scripts
 > **NOTE**
 > > I made these scripts to automate my tasks. So, if you want to use them, I would suggest you to **customize** these   `scripts` as well as `files & folders` properly.
 
