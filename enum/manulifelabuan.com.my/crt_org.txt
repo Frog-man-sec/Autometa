@@ -1,5 +1,0 @@
-[+] Scrap Subdomains by Organization Name From CRT.SH[+]
-manulife.com
-manulifelabuan.com.my
-www.manulife.com.ph
-www.manulifelabuan.com.my

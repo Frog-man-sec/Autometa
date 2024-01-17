@@ -1,5 +1,0 @@
-dev-ap.manulifelabuan.com.my
-sit-ap.manulifelabuan.com.my
-preprod-ap.manulifelabuan.com.my
-stg-ap.manulifelabuan.com.my
-www.manulifelabuan.com.my

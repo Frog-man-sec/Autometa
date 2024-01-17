@@ -1,6 +1,0 @@
-www.customer.manulife-asset.com.tw
-www.manulife-asset.com.tw
-customer.manulife-asset.com.tw
-mail.manulife-asset.com.tw
-webmail.manulife-asset.com.tw
-mailfilter.manulife-asset.com.tw

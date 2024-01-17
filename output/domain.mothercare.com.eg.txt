@@ -1,5 +1,0 @@
-data.mothercare.com.eg
-mothercare.com.eg
-mothercare.com.kw
-sni.cloudflaressl.com
-www.mothercare.com.eg

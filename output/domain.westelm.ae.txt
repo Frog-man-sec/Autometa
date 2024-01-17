@@ -1,7 +1,0 @@
-data.westelm.ae
-links.mail.westelm.ae
-sni.cloudflaressl.com
-westelm.ae
-westelm.com.kw
-WWW.ALSHAYA.COM
-www.westelm.ae

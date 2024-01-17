@@ -1,7 +1,0 @@
-accounts.staging-workrise.com
-app-origin.staging-workrise.com
-app.staging-workrise.com
-retool.staging-workrise.com
-sni.cloudflaressl.com
-staging-workrise.com
-www.staging-workrise.com

@@ -1,8 +1,0 @@
-https://stg-ap.manulifelabuan.com.my [[31m403[0m] [[35m[0m] [[35m286[0m] [[36mAccess Denied[0m] [[35mHSTS[0m]
-https://preprod-ap.manulifelabuan.com.my [[31m403[0m] [[35m[0m] [[35m290[0m] [[36mAccess Denied[0m] [[35mAkamai,Akamai Bot Manager,HSTS[0m]
-https://dev-ap.manulifelabuan.com.my [[31m403[0m] [[35m[0m] [[35m285[0m] [[36mAccess Denied[0m] [[35mHSTS[0m]
-https://sit-ap.manulifelabuan.com.my [[31m403[0m] [[35m[0m] [[35m286[0m] [[36mAccess Denied[0m] [[35mHSTS[0m]
-https://manulife.com [[33m301[0m,[32m200[0m] [[35m[0m] [[35m143914[0m] [[36mManulife Global | decisions made easier, lives made better[0m] [[35mAdobe Experience Manager,Amazon ALB,Amazon Web Services,Apache HTTP Server,HSTS,Java[0m] [[35mhttps://www.manulife.com/[0m]
-https://manulifelabuan.com.my [[33m301[0m,[33m301[0m,[33m301[0m,[33m301[0m,[32m200[0m] [[35m[0m] [[35m97121[0m] [[36mManulife Labuan[0m] [[35mAdobe Experience Manager,Apache HTTP Server,HSTS,Java[0m] [[35mhttps://www.manulifelabuan.com.my/en/labuan.html[0m]
-https://www.manulifelabuan.com.my [[33m301[0m,[33m301[0m,[33m301[0m,[32m200[0m] [[35m[0m] [[35m97121[0m] [[36mManulife Labuan[0m] [[35mAdobe Experience Manager,Apache HTTP Server,HSTS,Java[0m] [[35mhttps://www.manulifelabuan.com.my/en/labuan.html[0m]
-https://www.manulife.com.ph [[32m200[0m] [[35m[0m] [[35m163383[0m] [[36mLife Insurance and Investment Company | Manulife Philippines[0m] [[35mAdobe Experience Manager,Akamai,Akamai Bot Manager,Amazon ALB,Amazon Web Services,Apache HTTP Server,Google Tag Manager,HSTS,Java[0m]

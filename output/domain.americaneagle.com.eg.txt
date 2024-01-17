@@ -1,7 +1,0 @@
-americaneagle.com.eg
-americaneagle.com.qa
-commerce.americaneagle.com.eg
-data.americaneagle.com.eg
-sni.cloudflaressl.com
-WWW.ALSHAYA.COM
-www.americaneagle.com.eg
