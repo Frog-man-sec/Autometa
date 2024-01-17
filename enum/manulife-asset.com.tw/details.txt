@@ -1,0 +1,3 @@
+https://webmail.manulife-asset.com.tw [[32m200[0m] [[35m[0m] [[35m412[0m] [[36m[0m] [[35mHSTS[0m]
+https://mail.manulife-asset.com.tw [[32m200[0m] [[35m[0m] [[35m412[0m] [[36m[0m] [[35mHSTS[0m]
+https://www.manulife-asset.com.tw [[32m200[0m] [[35m[0m] [[35m40964[0m] [[36mApache Haus Distribution Installation Test[0m] [[35mApache HTTP Server:2.4.34,OpenSSL:1.0.2o,PHP:7.3.7,Windows Server[0m]

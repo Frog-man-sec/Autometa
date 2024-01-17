@@ -1,0 +1,4 @@
+[+] Scrap Subdomains by Organization Name From CRT.SH[+]
+customer.manulife-asset.com.tw
+manulife-asset.com.tw
+www.manulife-asset.com.tw

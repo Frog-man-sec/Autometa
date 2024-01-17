@@ -1,0 +1,9 @@
+dev.igpclaimreporting.jhancock.com
+jhaconnect.jhannuities.com
+jhmyportfolio.com
+johnhancock.com
+[+] Scrap Subdomains by Organization Name From CRT.SH[+]
+stage.jhmyportfolio.com
+test.jhmyportfolio.com
+uat.igpclaimreporting.jhancock.com
+www.jhmyportfolio.com

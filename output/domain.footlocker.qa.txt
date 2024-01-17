@@ -1,0 +1,6 @@
+data.footlocker.qa
+footlocker.com.bh
+footlocker.qa
+sni.cloudflaressl.com
+WWW.ALSHAYA.COM
+www.footlocker.qa

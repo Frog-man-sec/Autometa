@@ -1,0 +1,4 @@
+https://stage.jhmyportfolio.com [[32m200[0m] [[35m[0m] [[35m46518[0m] [[36mLogin[0m] [[35mBootstrap,HSTS[0m]
+https://www.jhmyportfolio.com [[33m301[0m,[32m200[0m] [[35m[0m] [[35m47092[0m] [[36mSign in[0m] [[35mBootstrap,HSTS[0m] [[35mhttps://www.jhmyportfolio.com/myauth[0m]
+https://jhmyportfolio.com [[33m301[0m,[33m301[0m,[32m200[0m] [[35m[0m] [[35m47092[0m] [[36mSign in[0m] [[35mBootstrap,HSTS[0m] [[35mhttps://www.jhmyportfolio.com/myauth[0m]
+https://johnhancock.com [[33m301[0m,[33m301[0m,[32m200[0m] [[35m[0m] [[35m566696[0m] [[36mInvest, Insure, and Retire with John Hancock[0m] [[35mAdobe Experience Manager,Apache HTTP Server,HSTS,Java[0m] [[35mhttps://www.johnhancock.com/index.html[0m]

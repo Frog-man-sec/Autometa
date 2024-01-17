@@ -1,0 +1,14 @@
+[+] Scrap Subdomains by Organization Name From CRT.SH[+]
+aws.manulife.com.kh
+awsuat.manulife.com.kh
+cws.manulife.com.kh
+eclaim.manulife.com.kh
+eclaim-ppd.manulife.com.kh
+mail.manulife.com.kh
+manulife.com
+manulife.com.kh
+new.manulife.com.kh
+ptk.manulife.com.kh
+ptkuat.manulife.com.kh
+www.manulife.com.kh
+www.manulife.com.ph

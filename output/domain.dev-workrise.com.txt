@@ -1,0 +1,7 @@
+accounts.dev-workrise.com
+accounts-sandbox.dev-workrise.com
+app.dev-workrise.com
+app-origin.dev-workrise.com
+dev-workrise.com
+retool.dev-workrise.com
+sni.cloudflaressl.com

@@ -1,0 +1,5 @@
+blog.ryotak.net
+journal.ryotak.net
+rancher.sentinel.ryotak.net
+ryotak.net
+vuln.ryotak.net

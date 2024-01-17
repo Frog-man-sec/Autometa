@@ -1,0 +1,6 @@
+manulife.com
+manulife-travel.ca
+mfti-app.np.aks.manulife.ca
+mfti-app.prd.aks.manulife.ca
+www.manulife-travel.ca
+www-uat.manulife-travel.ca
