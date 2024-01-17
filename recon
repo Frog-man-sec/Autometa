@@ -25,6 +25,6 @@ while IFS= read -r domain; do
     # Combine and sort unique domains
     cat "$enum_dir"/*.txt | sort -u > "$enum_dir/finalDomains.txt"
     # Check for alive subdomains
-    cat "$enum_dir/finalDomains.txt" | pdhttpx -silent -o "$enum_dir/alive.txt" | pdhttpx -l "$enum_dir/alive.txt" -fr -title -status-code -location -content-length -websocket -td -o "$enum_dir/details.txt"
+    cat "$enum_dir/finalDomains.txt" | httpx -silent -o "$enum_dir/alive.txt" | httpx -l "$enum_dir/alive.txt" -fr -title -status-code -location -content-length -websocket -td -o "$enum_dir/details.txt"
 
 done < scopes.txt
