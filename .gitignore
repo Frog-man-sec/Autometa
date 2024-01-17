@@ -1,5 +1,8 @@
 takeall
 enum
 output
-
+allwild
+allscopes.txt
+scopes.txt
+gitinitCMD.txt
 
