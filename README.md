@@ -11,7 +11,21 @@ First I will talk about the script `recon`. This scripts runs some common yet ef
 For each tool, it stores the results in seperate files.
 
 After that it will combine all the found subdomain and trim out the duplicates.
->> Note: *it will take input from a file called **scopes.txt***
+#### Task Process
+`recon` script takes sub domain from a text file called **scopes.txt**. Then it uses the following tools to enumerate subdomains for that domain. <br>
+**Tools**
+- amass
+- subfinder
+- assetfinder
+- crt_org.sh
+
+Meanwhile it stores found subdomains into text files named after the tools that is used to enumerate them.
+
+After completing the enumeration, it marges all the subdomain and put the unique ones into a file called **finalDomains.txt**
+
+
+
+>> Note: *due to the reson that amass takes a lot of time (**as I don't have a VPS nor a fast internet connection**) I've put **`timeout`** function to terminate after certain time. You can remove it if you want*
 #### Modification
 - Create a directory called `/automate` in your `/home/<user>` directory.
 - Put your script in that directory.
@@ -20,6 +34,10 @@ After that it will combine all the found subdomain and trim out the duplicates.
   - example.com
   - helloworld.xyz
   - newsite.co
-- Don't put `http://` or `https://` in with the link.
+- Don't put `http://` or `https://` before the link. **e.g**:
+  
+  - ~~http://example.com~~
+  - ~~https://helloworld.xyz~~
+  - ~~http://newsite.com~~
 
 
