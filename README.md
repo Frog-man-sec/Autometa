@@ -19,7 +19,7 @@ After that it will combine all the found subdomain and trim out the duplicates.
 - assetfinder
 - crt_org.sh
 
-Meanwhile it stores found subdomains into text files named after the tools that is used to enumerate them.
+Meanwhile it stores found subdomains into text files named after the tool that is used to enumerate them.
 
 After completing the enumeration, it marges all the subdomain and put the unique ones into a file called **finalDomains.txt**
 
