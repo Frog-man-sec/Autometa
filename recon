@@ -15,13 +15,13 @@ while IFS= read -r domain; do
     assetfinder --subs-only "$domain" | tee -a "$enum_dir/asset.txt"
     # Run crt_org.sh
     echo "starting crt_org"
-    crt_org.sh "$domain" | tee -a "$enum_dir/crt_org.txt"
+    crt.sh "$domain" | tee -a "$enum_dir/crt_org.txt"
     # Run amass enum
     echo "starting amass as passive"
-    timeout 30m amass enum --passive -d "$domain" | tee -a "$enum_dir/amassP.txt"
+    timeout 45m amass enum --passive -d "$domain" -v -r 1.1.1.1 | tee -a "$enum_dir/amassP.txt"
     # Run amass enum with brute
     echo "starting amass as brute"
-    timeout 45m amass enum --brute -d "$domain" -v | tee -a "$enum_dir/amassB.txt"
+    timeout 45m amass enum --brute -d "$domain" -v -r 1.1.1.1 | tee -a "$enum_dir/amassB.txt"
     # Combine and sort unique domains
     cat "$enum_dir"/*.txt | sort -u > "$enum_dir/finalDomains.txt"
     # Check for alive subdomains
